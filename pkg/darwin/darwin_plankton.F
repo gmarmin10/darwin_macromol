@@ -781,7 +781,7 @@ C==== Photosynthesis ===================================================
 
 C       set up Chl and N requirements as a function of growth rate PC
 C       then solve for PC
-
+#hi my name is gabby
 C       Carbohydrate fixation rate per chlorophyll (s-1)
         PChl = Sf(j)*VI_max(j)*(1 - EXP(-A_I(j)*PARtot))
 
